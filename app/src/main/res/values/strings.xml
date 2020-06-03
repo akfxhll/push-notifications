@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Firebase-notifications</string>
+    <string name="app_name">Firebase-Notifications</string>
+
+    <array name="topics">
+        <item>Mobile_Applications</item>
+        <item>Software_Engineering</item>
+    </array>
+
 </resources>
